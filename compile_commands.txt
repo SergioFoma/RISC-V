@@ -1,0 +1,2 @@
+riscv64-linux-gnu-gcc -nostdlib -o result hello_wordld.s -static
+qemu-riscv64 result
