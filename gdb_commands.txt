@@ -1,0 +1,6 @@
+qemu-riscv64 -g 1234 ./result
+target remote localhost:1234
+break _start
+step
+info registers <register>
+
