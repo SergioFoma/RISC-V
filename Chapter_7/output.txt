@@ -1,0 +1,6 @@
+the quick brown fox jumps over the lazy dog!
+12345 abcdefghijklmnopqrstuvwxyz.
+hello world, this is a test of the riscv64 lowercase conversion program.
+does it handle special characters like #, $, %, @, or & properly?
+assembly language is fun, especially when it finally compiles without errors.
+last line of the file.
